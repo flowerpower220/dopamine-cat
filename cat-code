@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title>Dopamine Cat &#128049</title>
+  </head>
+  <body>
+    <main>
+      <h1><strong>Dopamine Cat<strong></h1>
+      <section>
+        <h2>Pick your cat</h2>
+        <ul>
+        <li><p>Category 1: <a href="">cute cats</a></p></li>
+        <li><p>Category 2: <a href="">cuter cats</a></p></li>
+        <li><p>Category 1: <a href=""><em>adorable</em> cats &#128008</a></p></li>
+
+<button type="button">Click for a random cat</button>
+      </section>
+    </main>
+  </body>
+</html>

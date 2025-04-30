@@ -1,0 +1,70 @@
+/* Thank you for the source code, Joe Dinh "Random Picture Generator" https://codepen.io/jsd041313/pen/RQEOWm */
+
+
+
+header {
+	width: 100%;
+	padding-bottom: 25px;
+	flex-direction: column;
+	position: sticky;
+	background-color: #ba92f9;
+}
+
+img {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 12px;
+	object-fit: contain;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#button {
+	border-radius: 12px;
+	background-color:#ee84f8;
+	padding: 12px 28px;
+	font-size: 16px;
+	color: white;
+	font-family: "Lucida Console", cursive;
+	font-weight: bold;
+}
+
+#button:hover {
+	background-color: #8b63ea;	
+	curser: pointer;
+	transition-duration: 0.4s;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+body {
+	background-color: #ba92f9;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+p{
+	font-family: "Lucida Console", cursive;
+	font-size: 14px;
+	color: #fff;
+}
+p:hover{
+	color: #8b63ea;
+	transition-duration: 0.4s;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+h1{
+	font-family: "Lucida Console", cursive;
+	font-size: 30px;
+	color: #fff;
+	display:block;
+	text-align: center;
+}
